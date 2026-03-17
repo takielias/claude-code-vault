@@ -1,5 +1,7 @@
 # ccv -- Claude Code Vault
 
+[![Downloads](https://img.shields.io/github/downloads/takielias/claude-code-vault/total?style=for-the-badge&label=downloads&color=8B5CF6)](https://github.com/takielias/claude-code-vault/releases)
+
 A CLI tool that keeps private files (docs, prompts, notes) in a single private Git repo and symlinks them into your projects. Nothing leaks into public repos.
 
 ## Install
